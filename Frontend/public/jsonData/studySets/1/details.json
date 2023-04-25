@@ -1,0 +1,118 @@
+{
+  "id": 1,
+  "count": 12,
+  "progres": 0,
+  "name": "Miesiące po hiszpańsku",
+  "description": "zestaw do nauki miesięcy po hiszpańsku domyślnie stworzy jako przykład",
+  "created": "0001-01-01T00:00:00",
+  "questions": [
+    {
+      "id": 1,
+      "question": "enero",
+      "definition": "styczeń",
+      "qestStatus": 0,
+      "definitionStatus": 0,
+      "isActive": true,
+      "isLearned": true
+    },
+    {
+      "id": 2,
+      "question": "febrero",
+      "definition": "luty",
+      "qestStatus": 0,
+      "definitionStatus": 0,
+      "isActive": true,
+      "isLearned": true
+    },
+    {
+      "id": 3,
+      "question": "marzo",
+      "definition": "marzec",
+      "qestStatus": 0,
+      "definitionStatus": 0,
+      "isActive": true,
+      "isLearned": false
+    },
+    {
+      "id": 4,
+      "question": "abril",
+      "definition": "kwiecień",
+      "qestStatus": 0,
+      "definitionStatus": 0,
+      "isActive": true,
+      "isLearned": false
+    },
+    {
+      "id": 5,
+      "question": "mayo",
+      "definition": "maj",
+      "qestStatus": 0,
+      "definitionStatus": 0,
+      "isActive": false,
+      "isLearned": false
+    },
+    {
+      "id": 6,
+      "question": "junio",
+      "definition": "czerwiec",
+      "qestStatus": 0,
+      "definitionStatus": 0,
+      "isActive": false,
+      "isLearned": false
+    },
+    {
+      "id": 7,
+      "question": "julio",
+      "definition": "lipiec",
+      "qestStatus": 0,
+      "definitionStatus": 0,
+      "isActive": false,
+      "isLearned": false
+    },
+    {
+      "id": 8,
+      "question": "agosto",
+      "definition": "sierpień",
+      "qestStatus": 0,
+      "definitionStatus": 0,
+      "isActive": true,
+      "isLearned": false
+    },
+    {
+      "id": 9,
+      "question": "septiembre",
+      "definition": "wrzesień",
+      "qestStatus": 0,
+      "definitionStatus": 0,
+      "isActive": true,
+      "isLearned": false
+    },
+    {
+      "id": 10,
+      "question": "octubre",
+      "definition": "pażdziernik",
+      "qestStatus": 0,
+      "definitionStatus": 0,
+      "isActive": true,
+      "isLearned": false
+    },
+    {
+      "id": 11,
+      "question": "noviembre",
+      "definition": "listopad",
+      "qestStatus": 0,
+      "definitionStatus": 0,
+      "isActive": true,
+      "isLearned": false
+    },
+    {
+      "id": 12,
+      "question": "diciembre",
+      "definition": "grudzień",
+      "qestStatus": 0,
+      "definitionStatus": 0,
+      "isActive": true,
+      "isLearned": false
+    }
+  ]
+}

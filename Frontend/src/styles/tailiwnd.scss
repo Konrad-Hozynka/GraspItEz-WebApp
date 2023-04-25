@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  @apply text-3xl lg:text-4xl font-bold;
+}
+
+h2 {
+  @apply text-xl lg:text-2xl font-bold;
+}
+
+h3 {
+  @apply text-lg lg:text-xl font-semibold;
+}
+
+h4 {
+  @apply text-base lg:text-lg font-semibold;
+}

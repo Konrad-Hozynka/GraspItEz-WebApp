@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "count": 12,
+    "progress": 100,
+    "name": "Miesiące po hiszpańsku"
+  },
+  {
+    "id": 2,
+    "count": 13,
+    "progress": 69,
+    "name": "Kolory po angieslku"
+  },
+  {
+    "id": 1,
+    "count": 12,
+    "progress": 35,
+    "name": "Miesiące po hiszpańsku"
+  },
+  {
+    "id": 2,
+    "count": 13,
+    "progress": 0,
+    "name": "Kolory po angieslku"
+  }
+]

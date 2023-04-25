@@ -1,0 +1,32 @@
+#quiz-image {
+  position: relative;
+  &::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+}
+.underline-text {
+  transition: all 0.2s ease;
+  &:hover {
+    @apply text-black;
+    &::after {
+      @apply bg-black;
+    }
+  }
+  position: relative;
+  &::after {
+    transition: all 0.2s ease;
+    content: "";
+    width: 100%;
+    height: 2px;
+    background-color: white;
+    position: absolute;
+    bottom: -0.5px;
+    left: 0;
+  }
+}
